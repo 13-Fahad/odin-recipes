@@ -1,1 +1,2 @@
 # odin-recipes
+This is an exercise on the basics of HTML. I will be putting together a simple recipe website using what I have learned from the Odin Project. When I have finished, I will have successfully demonstrated that I know, and am able to use various HTML elements.
